@@ -1,4 +1,9 @@
 """1. Write a function that will double any integer (n) and return the result"""
+x = 10
+i = 2
+x = x * 2
+print(x)
+
 
 
 
